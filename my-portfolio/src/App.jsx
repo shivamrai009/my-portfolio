@@ -151,8 +151,8 @@ const App = () => {
 
           <div className="mt-10 flex gap-6">
             <SocialLink href="https://github.com/shivamrai009" icon={<Github size={22} />} label="GitHub" />
-            <SocialLink href="#" icon={<Linkedin size={22} />} label="LinkedIn" />
-            <SocialLink href="mailto:your-email@example.com" icon={<Mail size={22} />} label="Email" />
+            <SocialLink href="https://www.linkedin.com/in/shivam-rai-761a37271/" icon={<Linkedin size={22} />} label="LinkedIn" />
+            <SocialLink href="mailto:shivamrai047@gmail.com" icon={<Mail size={22} />} label="Email" />
           </div>
         </motion.header>
 
